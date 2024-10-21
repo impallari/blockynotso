@@ -1,7 +1,7 @@
 BlockyNotSo Font - Work in Progress
 ======================
 
-BlockyNotSo is a blocky -but no so blocky- cool new typeface!
+A blocky -but no so blocky- cool new typeface!
 
 
 
