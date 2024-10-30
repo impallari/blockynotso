@@ -1,9 +1,6 @@
 {
 .appVersion = "3260";
 .formatVersion = 3;
-DisplayStrings = (
-"abcdeghijlmnopqruvwi yz"
-);
 date = "2024-10-15 11:47:21 +0000";
 familyName = "Blocky Not So";
 fontMaster = (
@@ -652,12 +649,69 @@ metricLeft = o;
 unicode = 101;
 },
 {
+color = 4;
 glyphname = f;
-lastChange = "2024-10-17 14:21:58 +0000";
+lastChange = "2024-10-23 02:43:28 +0000";
 layers = (
 {
+associatedMasterId = m002;
+layerId = "D4EF8804-285B-4EFB-85FA-1D28EC6AD414";
+name = "22 Oct 24 at 9:01 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,470,l),
+(280,400,l),
+(225,400,l),
+(225,0,l),
+(125,0,l),
+(125,400,l),
+(20,400,l),
+(20,430,l),
+(80,500,l),
+(125,499,l),
+(125,640,l),
+(185,710,l),
+(340,710,l),
+(340,680,l),
+(280,610,l),
+(225,610,l),
+(225,500,l),
+(340,500,l)
+);
+}
+);
+width = 360;
+},
+{
 layerId = m002;
-width = 600;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,430,l),
+(75,500,l),
+(120,499,l),
+(120,640,l),
+(180,710,l),
+(335,710,l),
+(335,680,l),
+(275,610,l),
+(220,610,l),
+(220,500,l),
+(335,500,l),
+(335,400,l),
+(220,400,l),
+(220,0,l),
+(120,0,l),
+(120,400,l),
+(15,400,l)
+);
+}
+);
+width = 350;
 }
 );
 unicode = 102;
@@ -1143,7 +1197,7 @@ unicode = 113;
 {
 color = 4;
 glyphname = r;
-lastChange = "2024-10-22 22:41:33 +0000";
+lastChange = "2024-10-23 02:43:33 +0000";
 layers = (
 {
 background = {
@@ -1181,7 +1235,7 @@ nodes = (
 );
 }
 );
-width = 310;
+width = 305;
 }
 );
 unicode = 114;
@@ -1241,7 +1295,7 @@ unicode = 117;
 {
 color = 4;
 glyphname = v;
-lastChange = "2024-10-22 22:53:25 +0000";
+lastChange = "2024-10-23 02:48:50 +0000";
 layers = (
 {
 layerId = m002;
@@ -1249,13 +1303,13 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(295,500,l),
 (205,70,l),
 (115,500,l),
 (15,500,l),
 (130,0,l),
 (280,0,l),
-(395,500,l),
-(295,500,l)
+(395,500,l)
 );
 }
 );
@@ -1267,7 +1321,7 @@ unicode = 118;
 {
 color = 4;
 glyphname = w;
-lastChange = "2024-10-22 22:53:30 +0000";
+lastChange = "2024-10-29 10:37:43 +0000";
 layers = (
 {
 associatedMasterId = m002;
@@ -1324,17 +1378,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(190,80,l),
+(180,80,l),
 (115,500,l),
 (15,500,l),
-(115,0,l),
-(265,0,l),
-(320,290,l),
-(375,0,l),
-(525,0,l),
+(105,0,l),
+(255,0,l),
+(320,310,l),
+(385,0,l),
+(535,0,l),
 (625,500,l),
 (525,500,l),
-(450,80,l),
+(460,80,l),
 (370,500,l),
 (270,500,l)
 );
@@ -1514,5 +1568,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 13;
 }
