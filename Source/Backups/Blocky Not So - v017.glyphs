@@ -1,6 +1,9 @@
 {
 .appVersion = "3260";
 .formatVersion = 3;
+DisplayStrings = (
+vw
+);
 date = "2024-10-15 11:47:21 +0000";
 familyName = "Blocky Not So";
 featurePrefixes = (
@@ -592,7 +595,7 @@ unicode = 100;
 {
 color = 4;
 glyphname = e;
-lastChange = "2024-10-21 22:26:16 +0000";
+lastChange = "2024-11-01 18:55:58 +0000";
 layers = (
 {
 background = {
@@ -650,7 +653,7 @@ nodes = (
 );
 }
 );
-width = 410;
+width = 405;
 }
 );
 metricLeft = o;
@@ -1466,7 +1469,7 @@ unicode = 117;
 {
 color = 4;
 glyphname = v;
-lastChange = "2024-11-01 15:38:30 +0000";
+lastChange = "2024-11-01 19:06:56 +0000";
 layers = (
 {
 associatedMasterId = m002;
@@ -1549,7 +1552,7 @@ unicode = 118;
 {
 color = 4;
 glyphname = w;
-lastChange = "2024-11-01 15:28:12 +0000";
+lastChange = "2024-11-01 19:00:25 +0000";
 layers = (
 {
 associatedMasterId = m002;
@@ -1616,12 +1619,12 @@ nodes = (
 (179,85,l),
 (115,500,l),
 (15,500,l),
-(105,0,l),
-(255,0,l),
+(109,0,l),
+(251,0,l),
 (319,310,l),
 (321,310,l),
-(385,0,l),
-(535,0,l),
+(389,0,l),
+(531,0,l),
 (625,500,l),
 (525,500,l),
 (461,85,l),
@@ -1898,11 +1901,11 @@ unicode = 122;
 },
 {
 glyphname = space;
-lastChange = "2024-10-22 22:56:33 +0000";
+lastChange = "2024-11-01 18:58:41 +0000";
 layers = (
 {
 layerId = m002;
-width = 170;
+width = 150;
 }
 );
 unicode = 32;
